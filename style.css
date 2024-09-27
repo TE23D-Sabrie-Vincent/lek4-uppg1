@@ -1,0 +1,48 @@
+@font-face{
+    font-family: myFont;
+    src:url("Roboto_Mono\static\RobotoMono-Bold.ttf")
+}
+
+h1{
+    font-family: myFont;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+  
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
+body {
+    background-image: url('./img/showcase.jpg');
+}
+
+div {
+    background-color: lightgrey;
+    margin: 25px;
+    border: color black;
+    border-style: solid;
+}
+
+p {
+    text-align: center;
+}
+
+
+.bild-klass{
+    margin-left: 200px;
+}
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
