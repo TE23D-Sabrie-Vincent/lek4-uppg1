@@ -1,14 +1,14 @@
-@font-face{
+/* @font-face{
     font-family: myFont;
     src:url("Roboto_Mono\static\RobotoMono-Bold.ttf")
 }
-
+ */
 h1{
     font-family: myFont;
     background-color: yellow;
     color: blue;
     text-align: center;
-  
+    font-family: "Roboto Mono", Verdana;
 }
 
 h2{
